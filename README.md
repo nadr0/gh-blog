@@ -1,11 +1,23 @@
 # gh-blog
 Blogging made simple. No adware, no bloatware, and fully customizable. 
 
-This repo will allow you to instantly start blogging with your github account.
+This repository serves as a template and will allow you to instantly start blogging with your github account.
 
-Make sure you have a github page for your username and have created a repository with the name yourUsername.github.io
+Make sure you have a github page for your username and have created a repository with the name username.github.io
 
-Clone this repo into yourUsername.github.io repository and checkout another branch to develop on.
+Clone this repo into username.github.io repository and checkout another branch to develop on.
+
+## Steps to get started
+
+- Head over to GitHub and create a new repository named username.github.io, where username is your username (or organization name) on GitHu (https://pages.github.com/)
+```
+$ git clone https://github.com/username/username.github.io
+# Add this repositories source code to your repo
+$ git checkout -b development
+$ npm install
+$ npm run deploy
+# go to username.github.io to see your site
+```
 
 ## Running the blog locally
 
@@ -36,3 +48,5 @@ I left some <> variables and other random strings as placeholders.
 
 - package.json
 - gatsby-config.js
+
+
