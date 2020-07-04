@@ -7,6 +7,16 @@ Make sure you have a github page for your username and have created a repository
 
 Clone this repo into username.github.io repository and checkout another branch to develop on.
 
+## Perks of this blog
+
+- Free hosting (github pages)
+- Fully customizable (gatsby)
+- Simple posting via markdown (simple text format)
+- Fast (no bloatware)
+- No ads, social media, tracking, analytics, third party scripts, sponsored posts, affiliate links, paywall and comments 
+
+Blogging should be simple and quick. 
+
 ## Steps to get started
 
 - Head over to GitHub and create a new repository named username.github.io, where username is your username (or organization name) on GitHub (https://pages.github.com/)
