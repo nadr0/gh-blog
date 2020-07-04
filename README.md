@@ -3,9 +3,9 @@ Blogging made simple. No adware, no bloatware, and fully customizable.
 
 This repo will allow you to instantly start blogging with your github account.
 
-Make sure you have a github page for your username and have created a repository with the name <yourUsername>.github.io
+Make sure you have a github page for your username and have created a repository with the name yourUsername.github.io
 
-Clone this repo into <yourUsername>.github.io repository and checkout another branch to develop on.
+Clone this repo into yourUsername.github.io repository and checkout another branch to develop on.
 
 ## Running the blog locally
 
