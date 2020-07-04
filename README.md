@@ -9,10 +9,10 @@ Clone this repo into username.github.io repository and checkout another branch t
 
 ## Steps to get started
 
-- Head over to GitHub and create a new repository named username.github.io, where username is your username (or organization name) on GitHu (https://pages.github.com/)
+- Head over to GitHub and create a new repository named username.github.io, where username is your username (or organization name) on GitHub (https://pages.github.com/)
 ```
 $ git clone https://github.com/username/username.github.io
-# Add this repositories source code to your repo
+# Add this repository's source code to your repo
 $ git checkout -b development
 $ npm install
 $ npm run deploy
@@ -49,4 +49,6 @@ I left some <> variables and other random strings as placeholders.
 - package.json
 - gatsby-config.js
 
+## How is this created?
 
+This is made using [Gatsby](https://www.gatsbyjs.org/)
